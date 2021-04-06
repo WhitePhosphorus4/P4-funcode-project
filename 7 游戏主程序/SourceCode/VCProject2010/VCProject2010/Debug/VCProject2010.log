@@ -1,0 +1,117 @@
+﻿生成启动时间为 2018/7/27 8:37:36。
+项目“C:\Users\熊豪\Desktop\7 游戏主程序\SourceCode\VCProject2010\VCProject2010\VCProject2010.vcxproj”在节点 2 上(build 个目标)。
+InitializeBuildStatus:
+  正在创建“Debug\VCProject2010.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\DATAbigfale\VS2010\VC\bin\CL.exe /c /I../../Header /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Src\LessonS.cpp
+  LessonS.cpp
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(165): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(165): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(166): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(166): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(167): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(167): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(168): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(168): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(169): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(169): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(170): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(170): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(171): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(171): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(172): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(172): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(173): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(173): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(174): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(174): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(175): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(175): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(176): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(177): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(178): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(179): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(192): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(192): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(193): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(193): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(194): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(194): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(396): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(396): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(397): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(397): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(398): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(398): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(399): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(399): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(400): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(400): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(406): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(406): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(407): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(407): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(408): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(408): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(409): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(409): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(415): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(431): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(431): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(432): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(432): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(433): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(434): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(434): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(435): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(435): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(460): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(460): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(461): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(461): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(462): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(462): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(463): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(463): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(471): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(477): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(480): warning C4305: “参数”: 从“double”到“const float”截断
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(550): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(556): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+c:\users\熊豪\desktop\7 游戏主程序\sourcecode\src\lessons.cpp(562): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+ResourceCompile:
+  所有输出均为最新。
+Link:
+  D:\DATAbigfale\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\Bin\Game.exe" /INCREMENTAL:NO /NOLOGO Winmm.lib ..\..\Src\CommonClass_2010.Lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"Debug\Game.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\..\Bin\Game.lib" /MACHINE:X86 Debug\VCTemplate.res
+  Debug\AdventureMap.obj
+  Debug\Bullet.obj
+  Debug\LessonE.obj
+  Debug\LessonS.obj
+  Debug\LessonX.obj
+  Debug\LessonY.obj
+  Debug\LessonZ.obj
+  Debug\Main.obj
+  Debug\Player.obj
+  Debug\PlayerSpriteA.obj
+  Debug\PLayerSpriteB.obj
+  Debug\Portal.obj
+  Debug\Trigger.obj
+  Debug\bedroom.obj
+  Debug\home.obj
+  Debug\kitchen.obj
+  Debug\scene.obj
+  Debug\studyroom.obj
+AdventureMap.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+CommonClass_2010.Lib(CommonClass.obj) : warning LNK4204: “C:\Users\熊豪\Desktop\7 游戏主程序\SourceCode\VCProject2010\VCProject2010\Debug\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+  VCProject2010.vcxproj -> C:\Users\熊豪\Desktop\7 游戏主程序\SourceCode\VCProject2010\VCProject2010\..\..\..\Bin\Game.exe
+CopyFilesToOutputDirectory:
+  正在将文件从“Debug\Game.pdb”复制到“..\..\..\Bin\Game.pdb”。
+FinalizeBuildStatus:
+  正在删除文件“Debug\VCProject2010.unsuccessfulbuild”。
+  正在对“Debug\VCProject2010.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\熊豪\Desktop\7 游戏主程序\SourceCode\VCProject2010\VCProject2010\VCProject2010.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.75
